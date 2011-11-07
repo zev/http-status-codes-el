@@ -1,0 +1,14 @@
+* Installation
+* Usage
+
+Call M-x lookup-http-status-code
+Follow mini buffer prompt for a status code option
+Read the quick definition in the mini-buffer
+
+* Todo
+** TODO Document usage
+** TODO Format elisp code to convention
+*** TODO provide feature?
+*** TODO Add doc strings
+*** TODO Namespace?
+*** TODO Update for proper interactive use and string
